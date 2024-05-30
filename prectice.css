@@ -29,21 +29,21 @@ hr {
   }
 
 .card1{
-    background-image: url(2.png),linear-gradient(rgba(0, 0, 0, 0.767),rgba(169, 169, 169, 0.046),rgba(255, 255, 255, 0.215));
+    background-image: url(./images/2.png),linear-gradient(rgba(0, 0, 0, 0.767),rgba(169, 169, 169, 0.046),rgba(255, 255, 255, 0.215));
     background-repeat: no-repeat;
     border-radius: 7px;
     background-size: cover;
     margin-left: 50px;
 }
 .card2{
-    background-image: url(3.png),linear-gradient(rgba(0, 0, 0, 0.767),rgba(169, 169, 169, 0.046),rgba(255, 255, 255, 0.215));
+    background-image: url(./images/3.png),linear-gradient(rgba(0, 0, 0, 0.767),rgba(169, 169, 169, 0.046),rgba(255, 255, 255, 0.215));
     background-repeat: no-repeat;
     border-radius: 7px;
     background-size: cover;
     margin-left: 50px; 
 }
 .card3{
-    background-image: url(4.png),linear-gradient(rgba(0, 0, 0, 0.767),rgba(169, 169, 169, 0.046),rgba(255, 255, 255, 0.215));
+    background-image: url(./images/4.png),linear-gradient(rgba(0, 0, 0, 0.767),rgba(169, 169, 169, 0.046),rgba(255, 255, 255, 0.215));
     background-repeat: no-repeat;
     border-radius: 7px;
     background-size: cover;
